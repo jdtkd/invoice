@@ -1,6 +1,5 @@
-import Image from "next/image";
-import Wrapper from "./components/wrapper";
+import Wrapper from "./components/Wrapper"; // Adjust the import path as necessary
 
 export default function Home() {
-  return <Wrapper>test</Wrapper>;
+  return <Wrapper> test</Wrapper>;
 }
